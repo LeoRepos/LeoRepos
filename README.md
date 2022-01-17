@@ -1,5 +1,5 @@
 
-## Olá mundo! Muito prazer, eu sou o <i>Leonardo Dias!</i> 👋
+## Olá mundo!<br/>Muito prazer, eu sou o <i>Leonardo Dias!</i> 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-dos-santos-dias-2ab8a4185/)
 
